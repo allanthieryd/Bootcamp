@@ -1,0 +1,54 @@
+.divMapClassName{
+    /* background-color: darkcyan; */
+    background-image: url(https://media.istockphoto.com/id/1182467056/vector/cute-meadow-area-with-clouds-stars-and-mountains.jpg?s=612x612&w=0&k=20&c=SwM7C0pbLBDmJRKXJLwGfFVPB2Tl5boff8kYmQOs3mg=);
+    width: 500px;
+    height: 500px;
+    border: 4mm ridge rgba(211, 220, 50, .6);
+}
+
+.divPersoClassName{
+    position:absolute;
+    background-size:20px;
+    background-image: url(https://i.pinimg.com/originals/5f/4b/d3/5f4bd3343863fd25fc8505c89db9108e.png);
+    width:20px;
+    height: 20px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.divItemClassName{
+    background-size:cover;
+    background-image: url(https://i.pinimg.com/474x/9b/52/e3/9b52e3feaf2978ba28dbf7af4ac5082c.jpg);
+    position :absolute;
+    width:20px;
+    height:20px;
+}
+
+.divEnemyClassName{
+    background-size:cover;
+    background-image: url(https://i.pinimg.com/originals/50/b6/dd/50b6ddbf07843d9efc0fa71a63fabe09.png);
+    position :absolute;
+    width:20px;
+    height:20px;
+}
+
+.divMurClassName{
+    background-size:cover;
+    background-image: url(https://www.shutterstock.com/shutterstock/photos/2164193909/display_1500/stock-vector-lava-pixel-art-texture-magma-tile-seamless-pattern-bit-sprite-game-development-mobile-app-2164193909.jpg);
+    position :absolute;
+    width:20px;
+    height:20px;
+}
+
+#logo{
+    position :absolute;
+    width:70px;
+    height: auto;
+    margin-top: -70px;
+    margin-left: 5px;
+}
+
+.divNbItemsClassName{
+    color:blue;
+}
+
